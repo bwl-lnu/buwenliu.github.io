@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 你好 main
+  - title: 你好  hello
     link: /
-  - title: 科研项目 Research
+  - title: 刘卜文调研 buwenliu
     link: /research.html
-  - title: 论文 Publications
+  - title: 论文查找关键 Publications
     link: /publications.html
